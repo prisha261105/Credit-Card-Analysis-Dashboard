@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Credit Card Transaction Analysis Dashboard</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1 { color: #2c3e50; }
-        h2 { color: #34495e; border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-top: 20px; }
-        ul { list-style-type: disc; margin-left: 20px; }
-        ul ul { list-style-type: circle; margin-left: 20px; }
-        strong { color: #2980b9; }
-    </style>
-</head>
-<body>
+
 
     <h1>Credit Card Transaction Analysis Dashboard</h1>
 
@@ -70,19 +55,7 @@
     <ul>
         <li><strong>Power BI Desktop:</strong> For data modeling, visualization, and dashboard creation.</li>
         <li><strong>PostgreSQL:</strong> As the data source for credit card transaction data.</li>
-    </ul>
+   
 
-    <h2>How to Use:</h2>
-    <ol>
-        <li>Ensure you have PostgreSQL installed and the necessary credit card transaction data loaded into your database.</li>
-        <li>Clone this repository to your local machine.</li>
-        <li>Open the <code>.pbix</code> file (Power BI Desktop file) in Power BI Desktop.</li>
-        <li>You may need to refresh the data connection in Power BI Desktop to point to your PostgreSQL database.</li>
-        <li>Interact with the various filters and visualizations to explore the data.</li>
-    </ol>
+    
 
-    <h2>Contributions:</h2>
-    <p>Contributions are welcome! Please feel free to open issues or submit pull requests.</p>
-
-</body>
-</html>
