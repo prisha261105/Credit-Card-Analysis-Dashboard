@@ -1,33 +1,33 @@
 # Credit-Card-Analysis-Dashboard
-<H3>This repository contains an interactive Power BI dashboard for Credit Card Transaction Analysis.</H3>
+<H2>This repository contains an interactive Power BI dashboard for Credit Card Transaction Analysis.</H2>
 
-<H4>Dashboard Features:</H4>
+<li><H3>Dashboard Features:</H3></li>
 
-Overview of Transactions: Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.
+<ul>Overview of Transactions: Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.</ul>
 
-Quarterly Performance: Visualizes credit card transactions across different quarters, allowing for easy identification of trends and seasonal patterns.
+<ul>Quarterly Performance: Visualizes credit card transactions across different quarters, allowing for easy identification of trends and seasonal patterns.</ul>
 
-Demographic Segmentation: Analyze transactions by various customer demographics including:
+<ul>Demographic Segmentation: Analyze transactions by various customer demographics including:</ul>
 
-Education Level: Understand spending habits across different educational backgrounds.
+<ul>Education Level: Understand spending habits across different educational backgrounds.</ul>
 
-Customer Job: Identify transaction patterns based on customer's profession.
+<ul>Customer Job: Identify transaction patterns based on customer's profession.</ul>
 
-Marital Status: Explore how marital status influences credit card usage.
+<ul>Marital Status: Explore how marital status influences credit card usage.</ul>
 
-Age and Gender: Segment transactions by age groups and gender to uncover specific consumer behaviors.
+<ul>Age and Gender: Segment transactions by age groups and gender to uncover specific consumer behaviors.</ul>
 
-Income Group: Analyze spending across different income levels.
+<ul>Income Group: Analyze spending across different income levels.</ul>
 
-State and City: Drill down into geographical transaction data.
+<ul>State and City: Drill down into geographical transaction data.</ul>
 
-Card Type Analysis: Break down transactions by credit card type (e.g., Silver, Gold, Platinum, Medium, High, M, Low, In).
+<ul>Card Type Analysis: Break down transactions by credit card type (e.g., Silver, Gold, Platinum, Medium, High, M, Low, In).</ul>
 
-Transaction Details: Examine transactions based on:
+<ul>Transaction Details: Examine transactions based on:</ul>
 
-Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).
+<ul>Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).</ul>
 
-Chip Usage: Differentiate between transactions made with and without a chip.
+<ul>Chip Usage: Differentiate between transactions made with and without a chip.</ul>
 
 <H4>Interactive Filters: Dynamic filters allow users to slice and dice the data by:</H4>
 
