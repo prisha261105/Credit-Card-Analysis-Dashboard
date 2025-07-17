@@ -27,7 +27,7 @@
 <li>Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).</li>
 
 <li>Chip Usage: Differentiate between transactions made with and without a chip.</li>
-</ul>
+</ol>
 <h3>Interactive Filters: Dynamic filters allow users to slice and dice the data by:</h3>
 
 Card type (Silver, Gold, Platinum, Medium, High, M, Low, In)
