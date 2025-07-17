@@ -1,8 +1,8 @@
 <h1>Credit Card Transaction Analysis Dashboard</h1>
 <h2>This repository contains an interactive Power BI dashboard for Credit Card Transaction Analysis.</h2>
-<ul>
+<ol>
 <h3>Dashboard Features:</h3>
-<li>Overview of Transactions: Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.</li>
+<ul><li>Overview of Transactions: Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.</li>
 
 <li>Quarterly Performance: Visualizes credit card transactions across different quarters, allowing for easy identification of trends and seasonal patterns.</li>
 
@@ -22,11 +22,11 @@
 
 <li>Card Type Analysis: Break down transactions by credit card type (e.g., Silver, Gold, Platinum, Medium, High, M, Low, In).</li>
 
-Transaction Details: Examine transactions based on:
+<li>Transaction Details: Examine transactions based on:</li>
 
-Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).
+<li>Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).</li>
 
-Chip Usage: Differentiate between transactions made with and without a chip.
+<li>Chip Usage: Differentiate between transactions made with and without a chip.</li>
 </ul>
 <h3>Interactive Filters: Dynamic filters allow users to slice and dice the data by:</h3>
 
