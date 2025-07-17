@@ -1,61 +1,69 @@
+<h1>Credit Card Transaction Analysis Dashboard</h1>
+<h2>This repository contains an interactive Power BI dashboard for Credit Card Transaction Analysis.</h2>
 
+<h3>Dashboard Features:</h3>
+Overview of Transactions: Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.
 
-    <h1>Credit Card Transaction Analysis Dashboard</h1>
+Quarterly Performance: Visualizes credit card transactions across different quarters, allowing for easy identification of trends and seasonal patterns.
 
-    <p>This repository contains an interactive Power BI dashboard for <strong>Credit Card Transaction Analysis</strong>.</p>
+Demographic Segmentation: Analyze transactions by various customer demographics including:
 
-    <h2>Dashboard Features:</h2>
-    <ul>
-        <li><strong>Overview of Transactions:</strong> Provides a high-level summary of credit card revenue, total interest, total amount, and transaction count.</li>
-        <li><strong>Quarterly Performance:</strong> Visualizes credit card transactions across different quarters, allowing for easy identification of trends and seasonal patterns.</li>
-        <li><strong>Demographic Segmentation:</strong> Analyze transactions by various customer demographics including:
-            <ul>
-                <li><strong>Education Level:</strong> Understand spending habits across different educational backgrounds.</li>
-                <li><strong>Customer Job:</strong> Identify transaction patterns based on customer's profession.</li>
-                <li><strong>Marital Status:</strong> Explore how marital status influences credit card usage.</li>
-                <li><strong>Age and Gender:</strong> Segment transactions by age groups and gender to uncover specific consumer behaviors.</li>
-                <li><strong>Income Group:</strong> Observe spending across different income levels.</li>
-                <li><strong>State and City:</strong> Drill down into geographical transaction data.</li>
-            </ul>
-        </li>
-        <li><strong>Card Type Analysis:</strong> Break down transactions by credit card type (e.g., Silver, Gold, Platinum, Medium, High, M, Low, In).</li>
-        <li><strong>Transaction Details:</strong> Examine transactions based on:
-            <ul>
-                <li><strong>Expense Type:</strong> Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).</li>
-                <li><strong>Chip Usage:</strong> Differentiate between transactions made with and without a chip.</li>
-            </ul>
-        </li>
-        <li><strong>Interactive Filters:</strong> Dynamic filters allow users to slice and dice the data by:
-            <ul>
-                <li>Card type (Silver, Gold, Platinum, Medium, High, M, Low, In)</li>
-                <li>Quarter (Q1, Q2, Q3, Q4)</li>
-                <li>Start/End Date (Calendar selection)</li>
-                <li>Gender</li>
-                <li>Customer Job</li>
-                <li>Education Level</li>
-                <li>Marital Status</li>
-                <li>Age Group</li>
-                <li>State</li>
-                <li>Dependent Count</li>
-            </ul>
-        </li>
-    </ul>
+Education Level: Understand spending habits across different educational backgrounds.
 
-    <h2>Purpose:</h2>
-    <p>This dashboard aims to provide comprehensive insights into credit card transaction data, enabling users to:</p>
-    <ul>
-        <li>Identify key revenue drivers and areas for improvement.</li>
-        <li>Understand customer spending behavior and preferences.</li>
-        <li>Segment customers based on various attributes for targeted marketing.</li>
-        <li>Track performance over time and across different categories.</li>
-        <li>Make data-driven decisions related to credit card products and services.</li>
-    </ul>
+Customer Job: Identify transaction patterns based on customer's profession.
 
-    <h2>Technologies Used:</h2>
-    <ul>
-        <li><strong>Power BI Desktop:</strong> For data modeling, visualization, and dashboard creation.</li>
-        <li><strong>PostgreSQL:</strong> As the data source for credit card transaction data.</li>
-   
+Marital Status: Explore how marital status influences credit card usage.
 
-    
+Age and Gender: Segment transactions by age groups and gender to uncover specific consumer behaviors.
 
+Income Group: Observe spending across different income levels.
+
+State and City: Drill down into geographical transaction data.
+
+Card Type Analysis: Break down transactions by credit card type (e.g., Silver, Gold, Platinum, Medium, High, M, Low, In).
+
+Transaction Details: Examine transactions based on:
+
+Expense Type: Categorize spending by different expense types (e.g., Food, Travel, Bills, Entertainment, Fuel, Grocery, Business, Other).
+
+Chip Usage: Differentiate between transactions made with and without a chip.
+
+<h3>Interactive Filters: Dynamic filters allow users to slice and dice the data by:</h3>
+
+Card type (Silver, Gold, Platinum, Medium, High, M, Low, In)
+
+Quarter (Q1, Q2, Q3, Q4)
+
+Start/End Date (Calendar selection)
+
+Gender
+
+Customer Job
+
+Education Level
+
+Marital Status
+
+Age Group
+
+State
+
+Dependent Count
+
+<h3>Purpose:</h3>
+This dashboard aims to provide comprehensive insights into credit card transaction data, enabling users to:
+
+Identify key revenue drivers and areas for improvement.
+
+Understand customer spending behavior and preferences.
+
+Segment customers based on various attributes for targeted marketing.
+
+Track performance over time and across different categories.
+
+Make data-driven decisions related to credit card products and services.
+
+<h3>Technologies Used:</h3>
+Power BI Desktop: For data modeling, visualization, and dashboard creation.
+
+PostgreSQL: As the data source for credit card transaction data.
